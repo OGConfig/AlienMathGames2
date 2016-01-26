@@ -1,0 +1,2 @@
+<h1>AlienMathGames2</h1>
+This was a website prototype using the Axure software. This prototype was designed for children to learn math in a fun enviornment. The premise is this alien from space is stranded on out planet and his Universal Translator is broken. To repair this problem, children are asked math questions, and if they get them all correct, he can communicate with the angry farmer who is trying to shoot him down from the sky using farm concocted weapons.
